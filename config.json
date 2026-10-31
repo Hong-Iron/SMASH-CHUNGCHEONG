@@ -1,0 +1,179 @@
+{
+  "code": "CHUNGCHEONG",
+  "title": "SMASH CHUNGCHEONG",
+  "school": "충청대",
+  "fullName": "충청대학교",
+  "campusName": "충청대학교",
+  "tagline": "충청대를 부셔 (시험기간 스트레스 해소)",
+  "description": "충청대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 충청대학교 3D 화면과 SMASH CHUNGCHEONG 제목",
+  "url": "https://hong-iron.github.io/SMASH-CHUNGCHEONG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 473913231
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.622255,
+        127.3666817
+      ],
+      "n": "미호중학교",
+      "why": "학교 건물 아님 — 건축물대장 이름이 미호중학교이고 미호중 땅(월곡리 300-1)에 있어 충청대 건물이 아니다."
+    },
+    {
+      "at": [
+        36.6223883,
+        127.366671
+      ],
+      "n": "미호중학교",
+      "why": "학교 건물 아님 — 미호중학교 운동장에 걸친 미호중 건물 기록으로, 충청대 건물이 아니다."
+    },
+    {
+      "at": [
+        36.6222089,
+        127.3662938
+      ],
+      "n": "미호중학교",
+      "why": "학교 건물 아님 — 미호중학교 운동장 쪽 미호중 땅(300-1)에 있는 미호중 건물 기록이라 충청대 것이 아니다."
+    },
+    {
+      "at": [
+        36.6224068,
+        127.3674048
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 밖 301-7 땅의 길가 나무줄 자리로, 항공사진에 건물이 보이지 않는다."
+    },
+    {
+      "at": [
+        36.6224888,
+        127.3672227
+      ],
+      "n": "미호중학교",
+      "why": "학교 건물 아님 — 미호중 땅(300-1)에 있는 미호중학교 건물 기록이라 충청대 것이 아니다."
+    },
+    {
+      "at": [
+        36.6226906,
+        127.3666576
+      ],
+      "n": "미호중학교",
+      "why": "학교 건물 아님 — 미호중학교 운동장 옆 미호중 땅(300-1)에 있는 미호중 건물이다."
+    },
+    {
+      "at": [
+        36.6220863,
+        127.3664501
+      ],
+      "n": "미호중학교",
+      "why": "학교 건물 아님 — 캠퍼스 경계에 걸쳐 있지만 대장 이름이 미호중학교이고 미호중 땅(300-1)이며, 사진에는 나무줄만 보인다."
+    },
+    {
+      "at": [
+        36.6220991,
+        127.366889
+      ],
+      "n": "미호중학교",
+      "why": "학교 건물 아님 — 대장 이름이 미호중학교이고 미호중 땅(300-1)에 있어, 충청대 건물이 아니다."
+    },
+    {
+      "at": [
+        36.6217516,
+        127.3686721
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 동쪽 길가 텃밭 고랑 자리로, 사진에 건물이 없다."
+    },
+    {
+      "at": [
+        36.6228188,
+        127.3672634
+      ],
+      "n": "한국교원대학교부속미호중학교",
+      "why": "학교 건물 아님 — 한국교원대학교 부속 미호중학교 건물로, 충청대 건물이 아니다."
+    },
+    {
+      "at": [
+        36.6182622,
+        127.3702732
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — G동 북쪽 보도와 나무 자리로, 사진에 건물이 없다."
+    }
+  ],
+  "look": {
+    "학생회관(R동)": {
+      "style": "glass",
+      "wall": "#50585f",
+      "glass": "#5a7f88",
+      "frame": "#2e3638"
+    },
+    "형설각(A·B동)": {
+      "style": "ribbon",
+      "wall": "#8e98a1",
+      "glass": "#545d63",
+      "frame": "#c88b81"
+    },
+    "컨벤션센터(L동)": {
+      "style": "concrete",
+      "wall": "#5c636b",
+      "glass": "#2f383a",
+      "frame": "#a9afb6"
+    },
+    "도서관(F동)": {
+      "style": "stone",
+      "wall": "#bfc5ca",
+      "glass": "#4e646e",
+      "frame": "#5a5c64"
+    },
+    "교수연구동(P동)": {
+      "style": "glass",
+      "wall": "#d8dbdc",
+      "glass": "#4f685e",
+      "frame": "#4c4d4f"
+    },
+    "중련관(E동)": {
+      "style": "stone",
+      "wall": "#d0d1d5",
+      "glass": "#5d7a80",
+      "frame": "#9aa0a6"
+    },
+    "제1생활관": {
+      "style": "dorm",
+      "wall": "#ab9587",
+      "glass": "#3c4c4f",
+      "frame": "#e0ddd6",
+      "roof": "#c8604f",
+      "hip": true
+    },
+    "백련관(C동)": {
+      "style": "stone",
+      "wall": "#cdc9c0",
+      "glass": "#4a6169",
+      "frame": "#b4bbc0"
+    },
+    "봉추헌(D동)": {
+      "style": "brick",
+      "wall": "#67474f",
+      "glass": "#57686f",
+      "frame": "#8c9198"
+    },
+    "금양각(G동)": {
+      "style": "stone",
+      "wall": "#b4bec4",
+      "glass": "#3a434c",
+      "frame": "#8f9ca5"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
