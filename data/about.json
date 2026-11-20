@@ -1,0 +1,34 @@
+{
+ "region": "충북 청주시 흥덕구 강내면",
+ "nameEn": "Chungcheong University",
+ "added": "2026-11-01T02:27",
+ "rank": 143,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KNUE",
+   "campus": "한국교원대학교",
+   "km": 1.4
+  },
+  {
+   "code": "KU-SEJONG",
+   "campus": "고려대학교 세종캠퍼스",
+   "km": 7.3
+  },
+  {
+   "code": "HONGIK-SEJONG",
+   "campus": "홍익대학교 세종캠퍼스",
+   "km": 7.3
+  },
+  {
+   "code": "CBNU",
+   "campus": "충북대학교 개신캠퍼스",
+   "km": 7.9
+  },
+  {
+   "code": "SEOWON",
+   "campus": "서원대학교",
+   "km": 10.2
+  }
+ ]
+}
